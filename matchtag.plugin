@@ -1,0 +1,10 @@
+[Plugin]
+Loader=python
+Module=matchtag
+IAge=3
+Name=MatchTag
+Description=Finds and highlights matching XML tags.
+Authors=Giedrius Slavinskas
+Copyright=Copyright © 2013 Giedrius Slavinskas
+Website=
+Version=0.1.0
